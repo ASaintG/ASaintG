@@ -5,7 +5,7 @@
 
 ## About Me :
 
-- 👨‍💻 Soy un apasionado estudiante de Ingeniería en Computación con enfoque en desarrollo web Fullstack.
+- 👨‍💻 Soy un apasionado desarrollador web Fullstack.
 - 🏫 Actualmente, estoy inmerso en mis estudios en universidad tecnologica de Honduras para perfeccionar mis habilidades en el vasto mundo de la informática.
 - 💼 Jr. Fullstack Web 
 
