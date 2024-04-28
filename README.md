@@ -5,9 +5,10 @@
 
 ## About Me :
 
-- 👨‍💻 Soy un apasionado desarrollador web Fullstack.
-- 🏫 Actualmente, estoy inmerso en mis estudios en universidad tecnologica de Honduras para perfeccionar mis habilidades en el vasto mundo de la informática.
-- 💼 Jr. Fullstack Web 
+- 👨‍💻 Soy un desarrollador web full-stack con experiencia tanto en la parte del frontend como del backend. Mi enfoque principal es crear aplicaciones web robustas y atractivas que proporcionan una excelente experiencia de usuario.estas son algunas de las tecnologías que utilizo React,Vue.js Node.js y Express,PHP.
+Además de mis habilidades técnicas, me destaco por mi capacidad para colaborar y trabajar de manera efectiva en equipos multidisciplinarios. Me adapto fácilmente a los cambios en los requisitos del proyecto, las tecnologías emergentes y las nuevas metodologías. Soy proactivo y siempre estoy buscando oportunidades para mejorar mis habilidades y conocimientos mediante el estudio constante.
+Como desarrollador full-stack comprometido con la excelencia técnica y la mejora continua, estoy entusiasmado por contribuir al éxito de proyectos desafiantes y colaborar con equipos apasionados por la innovación y la calidad. Estoy abierto a nuevas oportunidades que me permitan aplicar y ampliar mis habilidades en un entorno dinámico y estimulante.
+
 
 <br>
 
