@@ -1,13 +1,13 @@
 
 <h1 align="center">Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, Soy Anthony Saint Hernandez</h1>
-<img align="right" top="500" height="70" width="100" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+<img align="right" top="500" height="150" width="200" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
 
 ## About Me :
 
 - 👨‍💻 Soy un desarrollador web full-stack con experiencia tanto en la parte del frontend como del backend. Mi enfoque principal es crear aplicaciones web robustas y atractivas que proporcionan una excelente experiencia de usuario.estas son algunas de las tecnologías que utilizo React,Vue.js Node.js y Express,PHP.
-Además de mis habilidades técnicas, me destaco por mi capacidad para colaborar y trabajar de manera efectiva en equipos multidisciplinarios. Me adapto fácilmente a los cambios en los requisitos del proyecto, las tecnologías emergentes y las nuevas metodologías. Soy proactivo y siempre estoy buscando oportunidades para mejorar mis habilidades y conocimientos mediante el estudio constante.
-Como desarrollador full-stack comprometido con la excelencia técnica y la mejora continua, estoy entusiasmado por contribuir al éxito de proyectos desafiantes y colaborar con equipos apasionados por la innovación y la calidad. Estoy abierto a nuevas oportunidades que me permitan aplicar y ampliar mis habilidades en un entorno dinámico y estimulante.
+-Además de mis habilidades técnicas, me destaco por mi capacidad para colaborar y trabajar de manera efectiva en equipos multidisciplinarios. Me adapto fácilmente a los cambios en los requisitos del proyecto, las tecnologías emergentes y las nuevas metodologías. Soy proactivo y siempre estoy buscando oportunidades para mejorar mis habilidades y conocimientos mediante el estudio constante.
+-Como desarrollador full-stack comprometido con la excelencia técnica y la mejora continua, estoy entusiasmado por contribuir al éxito de proyectos desafiantes y colaborar con equipos apasionados por la innovación y la calidad. Estoy abierto a nuevas oportunidades que me permitan aplicar y ampliar mis habilidades en un entorno dinámico y estimulante.
 
 
 <br>
