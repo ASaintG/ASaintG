@@ -6,8 +6,10 @@
 ## About Me :
 
 - 👨‍💻 Soy un desarrollador web full-stack con experiencia tanto en la parte del frontend como del backend. Mi enfoque principal es crear aplicaciones web robustas y atractivas que proporcionan una excelente experiencia de usuario.estas son algunas de las tecnologías que utilizo React,Vue.js Node.js y Express,PHP.
--Además de mis habilidades técnicas, me destaco por mi capacidad para colaborar y trabajar de manera efectiva en equipos multidisciplinarios. Me adapto fácilmente a los cambios en los requisitos del proyecto, las tecnologías emergentes y las nuevas metodologías. Soy proactivo y siempre estoy buscando oportunidades para mejorar mis habilidades y conocimientos mediante el estudio constante.
--Como desarrollador full-stack comprometido con la excelencia técnica y la mejora continua, estoy entusiasmado por contribuir al éxito de proyectos desafiantes y colaborar con equipos apasionados por la innovación y la calidad. Estoy abierto a nuevas oportunidades que me permitan aplicar y ampliar mis habilidades en un entorno dinámico y estimulante.
+- Además de mis habilidades técnicas, me destaco por mi capacidad para colaborar y trabajar de manera efectiva en equipos multidisciplinarios. Me adapto fácilmente a los cambios en los requisitos del proyecto, las tecnologías emergentes y las nuevas metodologías. Soy proactivo y siempre estoy buscando oportunidades para mejorar mis habilidades y conocimientos mediante el estudio constante.
+- 👨‍💻 I am a full-stack web developer with experience in both frontend and backend development. My main focus is on creating robust and attractive web applications that provide an excellent user experience. Some of the technologies I use include React, Vue.js, Node.js with Express, and PHP.
+
+- In addition to my technical skills, I stand out for my ability to collaborate and work effectively in multidisciplinary teams. I adapt easily to changes in project requirements, emerging technologies, and new methodologies. I am proactive and always seeking opportunities to improve my skills and knowledge through continuous study.
 
 
 <br>
