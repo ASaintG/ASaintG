@@ -1,17 +1,16 @@
 
 <h1 align="center">Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, Soy Anthony Saint Hernandez</h1>
-<br>
-<img align="right" top="500" height="150" width="200" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+<img align="right" top="500" height="150" margin-top="10px" width="200" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
 
 ## About Me :
 - 👨‍💻 I am a full-stack web developer with experience in both frontend and backend development.
-- My main focus is on creating robust and attractive web applications that provide an excellent user experience.
-- Some of the technologies I use include React, Vue.js, Node.js with Express,PHP and .NET.
+   My main focus is on creating robust and attractive web applications that provide an excellent user experience.
+   Some of the technologies I use include React, Vue.js, Node.js with Express,PHP and .NET.
 
 - In addition to my technical skills, I stand out for my ability to collaborate and work effectively in multidisciplinary teams.
-- I adapt easily to changes in project requirements, emerging technologies, and new methodologies.
-- I am proactive and always seeking opportunities to improve my skills and knowledge through continuous study.
+   I adapt easily to changes in project requirements, emerging technologies, and new methodologies.
+   I am proactive and always seeking opportunities to improve my skills and knowledge through continuous study.
 
 
 <br>
