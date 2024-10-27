@@ -4,9 +4,13 @@
 
 
 ## About Me :
-- 👨‍💻 I am a full-stack web developer with experience in both frontend and backend development. My main focus is on creating robust and attractive web applications that provide an excellent user experience. Some of the technologies I use include React, Vue.js, Node.js with Express, and PHP.
+- 👨‍💻 I am a full-stack web developer with experience in both frontend and backend development.
+- My main focus is on creating robust and attractive web applications that provide an excellent user experience.
+- Some of the technologies I use include React, Vue.js, Node.js with Express,PHP and .NET.
 
-- In addition to my technical skills, I stand out for my ability to collaborate and work effectively in multidisciplinary teams. I adapt easily to changes in project requirements, emerging technologies, and new methodologies. I am proactive and always seeking opportunities to improve my skills and knowledge through continuous study.
+- In addition to my technical skills, I stand out for my ability to collaborate and work effectively in multidisciplinary teams.
+- I adapt easily to changes in project requirements, emerging technologies, and new methodologies.
+- I am proactive and always seeking opportunities to improve my skills and knowledge through continuous study.
 
 
 <br>
