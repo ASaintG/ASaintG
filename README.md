@@ -1,54 +1,53 @@
+<h1 align="center">Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Anthony Saint Hernandez</h1>
 
-<h1 align="center">Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, Soy Anthony Saint Hernandez</h1>
+## 👨‍💻 About Me
 
+Full Stack Developer and DevOps-oriented engineer with experience building and maintaining enterprise applications. My focus spans C#, .NET, React, and Python, integrating REST APIs and webhooks, processing data via ETL pipelines, and working with SQL and NoSQL databases. 
 
-## About Me :
-<img align="right" width=300px alt="Unicorn" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" />
+I have a strong background in designing multi-tenant architectures, real-time dashboards, and automating data workflows. Beyond web development, I've been expanding into **systems programming with Rust** to build high-performance native desktop applications.
 
-
-
-👨‍💻  Full-Stack Web Developer with experience in both Frontend and Backend development. My primary focus is creating robust and attractive web applications that deliver an excellent user experience. I work with technologies like React, Vue.js, Node.js, Express, and .NET. Additionally, I have experience in designing and implementing backend systems. Beyond my technical skills, I am skilled at collaborating and working effectively in multidisciplinary teams. I adapt easily to changes in project requirements, emerging technologies, and new methodologies. I am proactive and always seeking opportunities to improve my skills and knowledge through continuous learning.
-- 🌱 I’m currently learning ...
-  - TypeScript
-  - Bash scripting
-- 📋 I’m looking forward to collaborate on open source projects.
-- Outside tech, 🎮 playing videogames, 🎵 listening to music, and ⚽ Playing Futbol.
+- 🔭 I’m currently working on **qemuvisor**, a native desktop VM manager built with Rust & Tauri.
+- 🌱 I’m currently diving deeper into **Rust, System Architecture, and Cloud Infrastructure**.
+- 💬 Ask me about **.NET, React, Python, BigQuery, or QEMU**.
+- ⚡ Fun fact: Outside tech, I enjoy playing videogames, listening to music, and playing football.
 
 <br>
 
-## Get in Touch with Me ☕ :
+## 🛠️ Tech Stack
 
-<br>
-- 📫 Reach out to me at: <a href="anthonyhernandez1927@gmail.com">anthonyhernandez1927@gmail.com</a>
+**Backend & Systems**
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
-<br>
+**Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-## Skill 🧑‍💻 :
-
-<br>
-
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/office/48/000000/react.png"/> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/><img src="https://img.icons8.com/color/48/000000/express.png"/> <img src="https://img.icons8.com/color/48/000000/npm.png"/> 
-
- <img src="https://img.icons8.com/officel/48/000000/php-logo.png"/>  <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/> 
-
-
-<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
-
-
-
-
-<br>
-
-## GitHub Stats 📈 :
+**Databases & DevOps**
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=google-cloud&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 <br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AsaintG&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) [![AnushkaWijegoonawardana97 GitHub stats](https://github-readme-stats.vercel.app/api?username=AsaintG&theme=algolia)](https://github.com/AsaintG/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AsaintG&theme=algolia)](https://github.com/AsaintG/github-readme-stats)
+## 📫 Get in Touch
+
+- 📧 Email: [anthonyhernandez1927@gmail.com](mailto:anthonyhernandez1927@gmail.com)
+- 💼 LinkedIn: [Anthony Saint Hernández González](https://www.linkedin.com/in/anthony-hernandez-gonzalez)
+- 🌐 Portfolio: [En construcción / Próximamente]
 
 <br>
 
+## 📈 GitHub Stats
 
-
-
----
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AsaintG&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsaintG&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
